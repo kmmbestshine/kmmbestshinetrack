@@ -1,0 +1,128 @@
+.text-radio{
+        padding-top: 7px;
+        margin-left: 10px;
+}
+.my-alert{
+    padding: 3px 0px 3px 10px;
+    margin: 0px;
+}
+.x-navigation > li.xn-logo > a:first-child{
+	background: #f7a62b ;
+}
+.wellBox{
+	min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    
+}
+.wellBox a{
+	color:#f7a62b;
+}
+.wellBox a span{
+	font-size:14px;
+	font-weight: 600;
+}
+.wellBox a:hover{
+	text-decoration: none;
+	color:#c17603 !important;
+}
+
+.profileBox{
+	height:216px;
+	
+	background-position: center;
+	background-size: cover;
+	width:100%;
+	padding:0px!important;
+}
+
+.profileBox .layers{
+	height: 100%;
+	width: 100%;
+	background: rgba(0,0,0,0.6);
+	display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-direction: normal;
+    -moz-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -moz-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-content: stretch;
+    -ms-flex-line-pack: stretch;
+    align-content: stretch;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.layers .box{
+    text-align: center;
+}
+.layers .logo_school{
+    height:70px;
+    width: 70px;
+    text-align: center;
+    border-radius: 50%;
+    border:1px solid white;
+}
+.layers .box p{
+    color:white;
+    text-align: center;
+}
+.layers .box h1{
+	color:white;
+	font-size:20px;
+	font-weight: bold;
+}
+.layers .box .col-md-8 p{
+	color:white!important;
+	margin-bottom:3px;
+}
+.x-navigation > li.xn-logo > a:first-child:hover {
+    background-color: #c17603;
+}
+.x-navigation li.active > a
+{
+	background-color: #f7a62b;
+}
+.icon-color
+{
+	color: #f7a62b;
+}
+.widget.widget-info 
+{
+	background: #f7a62b !important;  
+}
+.gether-box
+{
+	height: 40px;
+	/*border:1px solid black;*/
+	border-radius: 20px;
+	background-color: #ddd;
+	padding: 12px 0px;
+}
+.gether-box a{
+	/*border: 1px solid black;*/
+	padding: 0px 30px;
+}
+
+.form-control[disabled], .form-control[readonly] {
+    color: #8c1b1b;
+}
+
+
